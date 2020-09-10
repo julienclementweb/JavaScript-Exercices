@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="33121b94-1f2e-4ad8-85c0-06816d4e69cb" name="localhost" url="http://localhost/UdemyJavascript\boiteDeDialogue">
+        <fileTransfer mountedRoot="C:\wamp64\www\UdemyJavascript\boiteDeDialogue" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
